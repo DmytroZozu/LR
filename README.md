@@ -1,4 +1,4 @@
-# WebAR-Columbia-Difference-Tabulator
+# WebAR-буклет "Columbia-Difference-Tabulator"
 Буклет створено як результат виконання лабораторної роботи з дисципліни «Операційні системи» 
 
 **Команда проєкту:**
