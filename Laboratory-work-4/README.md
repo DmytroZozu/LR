@@ -6,7 +6,8 @@
 ### 2 Складний пошук та заміна текстових даних
 ![image](https://github.com/user-attachments/assets/609e91f5-7e6b-4849-bcb1-731f4c96d6fa)
 Завдання 2.2.1
-
+![image](https://github.com/user-attachments/assets/7568fcc8-50f0-41b3-8155-addc1c1114ea)
+Завдання 2.2.2
 
 
 
